@@ -9,7 +9,7 @@ Use ansible script to check whether the container stdout log is written too fast
 ```bash
 $ git clone github.com/yahaa/logleak
 
-$ cd log_leak
+$ cd logleak
 
 $ pip install -r requirements.txt
 
